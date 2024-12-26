@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "Decimal_To_INPUT_BASE_H.c"
+#include "Decimal_To_INPUT_BASE.c"
 
 #ifndef D2IBDEFED
 #define LOADERROR NULL
